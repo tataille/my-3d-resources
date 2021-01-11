@@ -1,10 +1,6 @@
-/*$fn = 20;
+/*
+Title: Candy dishwasher - Door handle front plate
 
-difference(){
-    cube([32.3,6.2,9.5]);
-    translate([25,3.1,0]) cylinder(r=2,h=12.2);
-}
-translate([-3.9,3.15,0]) cube([3.9,3.15,9.5]);
 */
 $fn=20;
 
