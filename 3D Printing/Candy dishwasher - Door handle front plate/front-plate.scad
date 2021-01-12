@@ -23,13 +23,14 @@ module logo(text){
   
 
 union() {
-difference(){
-    linear_extrude (height=9.5)
-    body();
-    hole();
-};
-translate([7,6.2,7])
-rotate([-90])
-    logo("©JMT");
+    difference(){
+        linear_extrude (height=9.5)
+        body();
+        hole();
+    };
+    translate([7,6.2,7])
+        rotate([-90])
+        linear_extrude (height=1)
+        logo("©JMT");
 }
 
