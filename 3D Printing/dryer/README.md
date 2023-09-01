@@ -1,4 +1,4 @@
-# Dryer part
+# Dryer Hook
 
 ![Alt text](dryer.png)
 
