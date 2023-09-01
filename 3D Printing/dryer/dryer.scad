@@ -8,7 +8,6 @@
         
         module body(){
             color("green")
-            
             minkowski() {
         cube(size = [17, 21.5, 40], center = false);
         translate([0,0,0])sphere(0);
