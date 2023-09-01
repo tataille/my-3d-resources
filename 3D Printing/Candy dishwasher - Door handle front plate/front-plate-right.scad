@@ -13,7 +13,7 @@ module body(){
 }
 
 module hole(){
-    translate([28.5,3.8,-1]) 
+    translate([28.5,4,-1]) 
     cylinder(r=3,h=12,$fn=50);
 }
 
